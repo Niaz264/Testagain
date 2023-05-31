@@ -10,7 +10,7 @@ import threading
 from texts import HELP_TEXT
 from ddl import ddllist
 import re
-import run 
+import sito
 
 
 # bot
